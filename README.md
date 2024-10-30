@@ -3,7 +3,6 @@
 <h3 align="center">A passionate developer from United Kingdom</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassankh17&label=Profile%20views&color=0e75b6&style=flat" alt="hassankh17" /> </p>
 
 
 - 🔭 I’m currently working on **6D Pose Estimation**
